@@ -1,0 +1,8 @@
+{
+  "name": "Demo Plugin",
+  "version": "1.0.0",
+  "id": "com.GAPLS.DemoPlugin",
+  "github": "https://github.com/G4PLS/StreamControllerPluginTemplate",
+  "thumbnail": "store/Thumbnail.png",
+  "app-version": "1.0.0"
+}
